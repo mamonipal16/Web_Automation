@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9049" started-at="2019-03-13T10:11:02Z" finished-at="2019-03-13T10:11:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9049" started-at="2019-03-13T10:11:02Z" finished-at="2019-03-13T10:11:12Z">
+      <class name="com.cspire.web.pom_TCs.Payment_flow_001">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.cspire.web.pom_TCs.Payment_flow_001@61832929]" name="test1" duration-ms="8968" started-at="2019-03-13T10:11:03Z" finished-at="2019-03-13T10:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.cspire.web.pom_TCs.Payment_flow_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
