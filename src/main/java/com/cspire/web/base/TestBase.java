@@ -8,7 +8,7 @@ public class TestBase {
 public static WebDriver driver;
 public static Properties obj;
 public TestBase() {
-	
+	System.out.println();
 }
 
 }
