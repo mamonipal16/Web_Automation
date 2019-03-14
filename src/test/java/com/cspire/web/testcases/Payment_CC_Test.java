@@ -1,5 +1,7 @@
 package com.cspire.web.testcases;
 
-public class Payment_CC_Test {
+import com.cspire.web.base.TestBase;
+
+public class Payment_CC_Test extends TestBase {
 
 }
